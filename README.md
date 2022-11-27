@@ -1,5 +1,11 @@
 # Image Retrieval System
 
+## Dataset
+
+Please first download the dataset [static.zip](https://www.dropbox.com/sh/qnjoc15yjfs2epo/AADpE6CSB3ZOUjW6FeJSzRvca?dl=0).
+
+Then, unzip it and move it to your project path.
+
 
 ## Requirements
 
