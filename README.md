@@ -30,4 +30,4 @@ $ python image_retrieval.py arg1 arg2
 ```
 
 arg1 is the model you want to use and you can choose from {'alexnet', 'resnet', 'vit'}. arg2 is the similarity metric and you can choose from {'e', 'cos', 'kl'}. After running the command, you can enter the system through http://127.0.0.1:9008/ in the browser. To do a retrieval, you should first upload an image query and then click the run button to retrieve the results.
-# image_retrieval
+
