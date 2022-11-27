@@ -21,7 +21,7 @@ numpy==1.15.4
 Pillow==5.3.0
 ```
 
-## Usage.
+## Usage
 
 First download the image repository through the link. Put the downloaded images to the './static/image_database'. And then run the following command to start the server:
 
